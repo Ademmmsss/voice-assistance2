@@ -1,0 +1,15 @@
+import datetime as d
+from datetime import datetime
+import wikipedia
+import pyttsx3 
+import speech_recognition as sr
+import keyboard as k
+import webbrowser as wb
+import colorama
+from colorama import Fore
+import pyfiglet
+from pyfiglet import Figlet
+import playsound
+from playsound import playsound
+colorama.init()
+import time
